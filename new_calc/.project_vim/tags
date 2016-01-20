@@ -1,0 +1,192 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BOOLEAN	/home/nitonggui/worksapce/c/new_calc/types.h	/^typedef unsigned char		BOOLEAN;$/;"	t
+BUFSIZE	/home/nitonggui/worksapce/c/new_calc/getch.c	3;"	d	file:
+DISABLE	/home/nitonggui/worksapce/c/new_calc/types.h	57;"	d
+DISPLAY_MSG	/home/nitonggui/worksapce/c/new_calc/types.h	55;"	d
+EMPTY_TOS	/home/nitonggui/worksapce/c/new_calc/stack.c	7;"	d	file:
+ENABLE	/home/nitonggui/worksapce/c/new_calc/types.h	58;"	d
+ERROR	/home/nitonggui/worksapce/c/new_calc/types.h	83;"	d
+FALSE	/home/nitonggui/worksapce/c/new_calc/types.h	75;"	d
+FP32	/home/nitonggui/worksapce/c/new_calc/types.h	/^typedef float			FP32;$/;"	t
+FP64	/home/nitonggui/worksapce/c/new_calc/types.h	/^typedef double			FP64;$/;"	t
+HLIST_HEAD	/home/nitonggui/worksapce/c/new_calc/list.h	276;"	d
+HLIST_HEAD_INIT	/home/nitonggui/worksapce/c/new_calc/list.h	275;"	d
+INIT_HLIST_HEAD	/home/nitonggui/worksapce/c/new_calc/list.h	277;"	d
+INIT_HLIST_NODE	/home/nitonggui/worksapce/c/new_calc/list.h	/^static inline void INIT_HLIST_NODE(struct hlist_node *h)$/;"	f	signature:(struct hlist_node *h)
+INIT_LIST_HEAD	/home/nitonggui/worksapce/c/new_calc/list.h	29;"	d
+INT16S	/home/nitonggui/worksapce/c/new_calc/types.h	/^typedef signed short		INT16S;$/;"	t
+INT16U	/home/nitonggui/worksapce/c/new_calc/types.h	/^typedef unsigned short		INT16U;$/;"	t
+INT32S	/home/nitonggui/worksapce/c/new_calc/types.h	/^typedef signed int		INT32S;$/;"	t
+INT32U	/home/nitonggui/worksapce/c/new_calc/types.h	/^typedef unsigned int		INT32U;$/;"	t
+INT64S	/home/nitonggui/worksapce/c/new_calc/types.h	/^typedef long long		INT64S;$/;"	t
+INT64U	/home/nitonggui/worksapce/c/new_calc/types.h	/^typedef unsigned long long	INT64U;$/;"	t
+INT8S	/home/nitonggui/worksapce/c/new_calc/types.h	/^typedef signed char		INT8S;$/;"	t
+INT8U	/home/nitonggui/worksapce/c/new_calc/types.h	/^typedef unsigned char		INT8U;$/;"	t
+LIST_HEAD	/home/nitonggui/worksapce/c/new_calc/list.h	26;"	d
+LIST_HEAD_INIT	/home/nitonggui/worksapce/c/new_calc/list.h	24;"	d
+MAX	/home/nitonggui/worksapce/c/new_calc/types.h	60;"	d
+MAXOP	/home/nitonggui/worksapce/c/new_calc/calc.c	8;"	d	file:
+MAXVAL	/home/nitonggui/worksapce/c/new_calc/calc.h	5;"	d
+MIN	/home/nitonggui/worksapce/c/new_calc/types.h	61;"	d
+MIN_STACK_SZ	/home/nitonggui/worksapce/c/new_calc/stack.c	6;"	d	file:
+NULL	/home/nitonggui/worksapce/c/new_calc/types.h	67;"	d
+NUMBER	/home/nitonggui/worksapce/c/new_calc/calc.h	4;"	d
+OK	/home/nitonggui/worksapce/c/new_calc/types.h	79;"	d
+TRUE	/home/nitonggui/worksapce/c/new_calc/types.h	71;"	d
+US_SWAP	/home/nitonggui/worksapce/c/new_calc/types.h	62;"	d
+_LIST_H	/home/nitonggui/worksapce/c/new_calc/list.h	2;"	d
+_QUE_H	/home/nitonggui/worksapce/c/new_calc/que.h	12;"	d
+_TYPES_H	/home/nitonggui/worksapce/c/new_calc/types.h	11;"	d
+__CALC_H__	/home/nitonggui/worksapce/c/new_calc/calc.h	2;"	d
+__STACK_H__	/home/nitonggui/worksapce/c/new_calc/stack.h	2;"	d
+__anon1::head	/home/nitonggui/worksapce/c/new_calc/calc.c	/^	list_head_t head;$/;"	m	struct:__anon1	file:	access:public
+__anon1::n	/home/nitonggui/worksapce/c/new_calc/calc.c	/^	double n;$/;"	m	struct:__anon1	file:	access:public
+__anon1::type	/home/nitonggui/worksapce/c/new_calc/calc.c	/^	char type;$/;"	m	struct:__anon1	file:	access:public
+__hlist_del	/home/nitonggui/worksapce/c/new_calc/list.h	/^static inline void __hlist_del(struct hlist_node *n)$/;"	f	signature:(struct hlist_node *n)
+__isr__	/home/nitonggui/worksapce/c/new_calc/types.h	50;"	d
+__list_add	/home/nitonggui/worksapce/c/new_calc/list.h	/^static __inline__ void __list_add(struct list_head * _new,$/;"	f	signature:(struct list_head * _new, struct list_head * _prev, struct list_head * _next)
+__list_add	/home/nitonggui/worksapce/c/new_calc/list.h	51;"	d
+__list_del	/home/nitonggui/worksapce/c/new_calc/list.h	/^static __inline__ void __list_del(struct list_head * _prev,$/;"	f	signature:(struct list_head * _prev, struct list_head * _next)
+__list_del	/home/nitonggui/worksapce/c/new_calc/list.h	119;"	d
+__plc_wq__	/home/nitonggui/worksapce/c/new_calc/types.h	51;"	d
+__tmr__	/home/nitonggui/worksapce/c/new_calc/types.h	52;"	d
+array	/home/nitonggui/worksapce/c/new_calc/stack.c	/^	void *array;$/;"	m	struct:stack_s	file:	access:public
+buf	/home/nitonggui/worksapce/c/new_calc/getch.c	/^char buf[BUFSIZE];$/;"	v
+bufp	/home/nitonggui/worksapce/c/new_calc/getch.c	/^int bufp = 0;$/;"	v
+calc	/home/nitonggui/worksapce/c/new_calc/calc.c	/^double calc()$/;"	f
+cap	/home/nitonggui/worksapce/c/new_calc/stack.c	/^	int cap;	\/\/capacity$/;"	m	struct:stack_s	file:	access:public
+container_of	/home/nitonggui/worksapce/c/new_calc/list.h	218;"	d
+create_stack	/home/nitonggui/worksapce/c/new_calc/stack.c	/^stack_t *create_stack(int esz, int nr)$/;"	f	signature:(int esz, int nr)
+create_stack	/home/nitonggui/worksapce/c/new_calc/stack.h	/^stack_t *create_stack(int esz, int nr);$/;"	p	signature:(int esz, int nr)
+del	/home/nitonggui/worksapce/c/new_calc/que.h	/^	void (*del)(void *obj);$/;"	m	struct:msgq_s	access:public
+dispose_stack	/home/nitonggui/worksapce/c/new_calc/stack.c	/^void dispose_stack(stack_t *s)$/;"	f	signature:(stack_t *s)
+dispose_stack	/home/nitonggui/worksapce/c/new_calc/stack.h	/^void dispose_stack(stack_t *s);$/;"	p	signature:(stack_t *s)
+double_stack	/home/nitonggui/worksapce/c/new_calc/calc.c	/^stack_t *double_stack;$/;"	v
+esz	/home/nitonggui/worksapce/c/new_calc/stack.c	/^	int esz;	\/\/element size$/;"	m	struct:stack_s	file:	access:public
+first	/home/nitonggui/worksapce/c/new_calc/list.h	/^	struct hlist_node *first;$/;"	m	struct:hlist_head	typeref:struct:hlist_head::hlist_node	access:public
+get_tok	/home/nitonggui/worksapce/c/new_calc/calc.c	/^token *get_tok(char type, double n)$/;"	f	signature:(char type, double n)
+getch	/home/nitonggui/worksapce/c/new_calc/getch.c	/^int getch(void)$/;"	f	signature:(void)
+getop	/home/nitonggui/worksapce/c/new_calc/getop.c	/^int getop(char s[])$/;"	f	signature:(char s[])
+head	/home/nitonggui/worksapce/c/new_calc/calc.c	/^	list_head_t head;$/;"	m	struct:__anon1	file:	access:public
+head	/home/nitonggui/worksapce/c/new_calc/que.h	/^	struct list_head head;$/;"	m	struct:msgq_s	typeref:struct:msgq_s::list_head	access:public
+hlist_add_after	/home/nitonggui/worksapce/c/new_calc/list.h	/^static inline void hlist_add_after(struct hlist_node *n,$/;"	f	signature:(struct hlist_node *n, struct hlist_node *next)
+hlist_add_before	/home/nitonggui/worksapce/c/new_calc/list.h	/^static inline void hlist_add_before(struct hlist_node *n,$/;"	f	signature:(struct hlist_node *n, struct hlist_node *next)
+hlist_add_head	/home/nitonggui/worksapce/c/new_calc/list.h	/^static inline void hlist_add_head(struct hlist_node *n, struct hlist_head *h)$/;"	f	signature:(struct hlist_node *n, struct hlist_head *h)
+hlist_del	/home/nitonggui/worksapce/c/new_calc/list.h	/^static inline void hlist_del(struct hlist_node *n)$/;"	f	signature:(struct hlist_node *n)
+hlist_del_init	/home/nitonggui/worksapce/c/new_calc/list.h	/^static inline void hlist_del_init(struct hlist_node *n)$/;"	f	signature:(struct hlist_node *n)
+hlist_empty	/home/nitonggui/worksapce/c/new_calc/list.h	/^static inline int hlist_empty(const struct hlist_head *h)$/;"	f	signature:(const struct hlist_head *h)
+hlist_entry	/home/nitonggui/worksapce/c/new_calc/list.h	362;"	d
+hlist_for_each	/home/nitonggui/worksapce/c/new_calc/list.h	365;"	d
+hlist_for_each_safe	/home/nitonggui/worksapce/c/new_calc/list.h	368;"	d
+hlist_head	/home/nitonggui/worksapce/c/new_calc/list.h	/^struct hlist_head {$/;"	s
+hlist_head::first	/home/nitonggui/worksapce/c/new_calc/list.h	/^	struct hlist_node *first;$/;"	m	struct:hlist_head	typeref:struct:hlist_head::hlist_node	access:public
+hlist_move_list	/home/nitonggui/worksapce/c/new_calc/list.h	/^static inline void hlist_move_list(struct hlist_head *old,$/;"	f	signature:(struct hlist_head *old, struct hlist_head *new)
+hlist_node	/home/nitonggui/worksapce/c/new_calc/list.h	/^struct hlist_node {$/;"	s
+hlist_node::next	/home/nitonggui/worksapce/c/new_calc/list.h	/^	struct hlist_node *next, **pprev;$/;"	m	struct:hlist_node	typeref:struct:hlist_node::hlist_node	access:public
+hlist_node::pprev	/home/nitonggui/worksapce/c/new_calc/list.h	/^	struct hlist_node *next, **pprev;$/;"	m	struct:hlist_node	typeref:struct:hlist_node::	access:public
+hlist_unhashed	/home/nitonggui/worksapce/c/new_calc/list.h	/^static inline int hlist_unhashed(const struct hlist_node *h)$/;"	f	signature:(const struct hlist_node *h)
+htonl	/home/nitonggui/worksapce/c/new_calc/types.h	41;"	d
+htons	/home/nitonggui/worksapce/c/new_calc/types.h	40;"	d
+int16_t	/home/nitonggui/worksapce/c/new_calc/types.h	/^typedef short			int16_t;$/;"	t
+int32_t	/home/nitonggui/worksapce/c/new_calc/types.h	/^typedef int			int32_t;$/;"	t
+int8_t	/home/nitonggui/worksapce/c/new_calc/types.h	/^typedef signed char		int8_t;$/;"	t
+is_empty	/home/nitonggui/worksapce/c/new_calc/stack.c	/^int is_empty(stack_t *s)$/;"	f	signature:(stack_t *s)
+is_empty	/home/nitonggui/worksapce/c/new_calc/stack.h	/^extern int is_empty(stack_t *s);$/;"	p	signature:(stack_t *s)
+is_full	/home/nitonggui/worksapce/c/new_calc/stack.c	/^int is_full(stack_t *s)$/;"	f	signature:(stack_t *s)
+is_full	/home/nitonggui/worksapce/c/new_calc/stack.h	/^extern int is_full(stack_t *s);$/;"	p	signature:(stack_t *s)
+islesseq	/home/nitonggui/worksapce/c/new_calc/calc.c	/^int islesseq(char a, char b)$/;"	f	signature:(char a, char b)
+list_add	/home/nitonggui/worksapce/c/new_calc/list.h	/^static __inline__ void list_add(struct list_head *_new, struct list_head *_head)$/;"	f	signature:(struct list_head *_new, struct list_head *_head)
+list_add	/home/nitonggui/worksapce/c/new_calc/list.h	78;"	d
+list_add_tail	/home/nitonggui/worksapce/c/new_calc/list.h	/^static __inline__ void list_add_tail(struct list_head *_new, struct list_head *_head)$/;"	f	signature:(struct list_head *_new, struct list_head *_head)
+list_add_tail	/home/nitonggui/worksapce/c/new_calc/list.h	98;"	d
+list_del	/home/nitonggui/worksapce/c/new_calc/list.h	/^static __inline__ void list_del(struct list_head *_entry)$/;"	f	signature:(struct list_head *_entry)
+list_del	/home/nitonggui/worksapce/c/new_calc/list.h	141;"	d
+list_del_init	/home/nitonggui/worksapce/c/new_calc/list.h	/^static __inline__ void list_del_init(struct list_head *_entry)$/;"	f	signature:(struct list_head *_entry)
+list_del_init	/home/nitonggui/worksapce/c/new_calc/list.h	159;"	d
+list_empty	/home/nitonggui/worksapce/c/new_calc/list.h	/^static __inline__ int list_empty(struct list_head *_head)$/;"	f	signature:(struct list_head *_head)
+list_empty	/home/nitonggui/worksapce/c/new_calc/list.h	176;"	d
+list_empty_one	/home/nitonggui/worksapce/c/new_calc/list.h	/^static __inline__ int list_empty_one(struct list_head *_head)$/;"	f	signature:(struct list_head *_head)
+list_entry	/home/nitonggui/worksapce/c/new_calc/list.h	227;"	d
+list_for_each	/home/nitonggui/worksapce/c/new_calc/list.h	236;"	d
+list_for_each_reverse	/home/nitonggui/worksapce/c/new_calc/list.h	240;"	d
+list_for_each_safe	/home/nitonggui/worksapce/c/new_calc/list.h	251;"	d
+list_for_each_safe_reverse	/home/nitonggui/worksapce/c/new_calc/list.h	255;"	d
+list_head	/home/nitonggui/worksapce/c/new_calc/list.h	/^struct list_head {$/;"	s
+list_head::next	/home/nitonggui/worksapce/c/new_calc/list.h	/^	struct list_head *next, *prev;$/;"	m	struct:list_head	typeref:struct:list_head::list_head	access:public
+list_head::prev	/home/nitonggui/worksapce/c/new_calc/list.h	/^	struct list_head *next, *prev;$/;"	m	struct:list_head	typeref:struct:list_head::	access:public
+list_head_t	/home/nitonggui/worksapce/c/new_calc/list.h	/^typedef struct list_head list_head_t;$/;"	t	typeref:struct:list_head
+list_splice	/home/nitonggui/worksapce/c/new_calc/list.h	/^static __inline__ void list_splice(struct list_head *list, struct list_head *head)$/;"	f	signature:(struct list_head *list, struct list_head *head)
+long_t	/home/nitonggui/worksapce/c/new_calc/types.h	/^typedef long			long_t;$/;"	t
+main	/home/nitonggui/worksapce/c/new_calc/calc.c	/^main()$/;"	f
+make_empty	/home/nitonggui/worksapce/c/new_calc/stack.c	/^void make_empty(stack_t *s) $/;"	f	signature:(stack_t *s)
+make_empty	/home/nitonggui/worksapce/c/new_calc/stack.h	/^void make_empty(stack_t *s);$/;"	p	signature:(stack_t *s)
+mod_ceiling	/home/nitonggui/worksapce/c/new_calc/types.h	63;"	d
+mod_floor	/home/nitonggui/worksapce/c/new_calc/types.h	64;"	d
+msgq_del	/home/nitonggui/worksapce/c/new_calc/que.h	/^static __inline__ void msgq_del(msgq_t *q, void *obj)$/;"	f	signature:(msgq_t *q, void *obj)
+msgq_deq	/home/nitonggui/worksapce/c/new_calc/que.c	/^void * msgq_deq(msgq_t *q)$/;"	f	signature:(msgq_t *q)
+msgq_deq	/home/nitonggui/worksapce/c/new_calc/que.h	/^extern void * msgq_deq(msgq_t *q);$/;"	p	signature:(msgq_t *q)
+msgq_enq	/home/nitonggui/worksapce/c/new_calc/que.c	/^void * msgq_enq(msgq_t *q, void *obj)$/;"	f	signature:(msgq_t *q, void *obj)
+msgq_enq	/home/nitonggui/worksapce/c/new_calc/que.h	/^extern void * msgq_enq(msgq_t *q, void *obj);$/;"	p	signature:(msgq_t *q, void *obj)
+msgq_fina	/home/nitonggui/worksapce/c/new_calc/que.c	/^void msgq_fina(msgq_t *q)$/;"	f	signature:(msgq_t *q)
+msgq_fina	/home/nitonggui/worksapce/c/new_calc/que.h	/^extern void msgq_fina(msgq_t *q);$/;"	p	signature:(msgq_t *q)
+msgq_first	/home/nitonggui/worksapce/c/new_calc/que.h	37;"	d
+msgq_init	/home/nitonggui/worksapce/c/new_calc/que.c	/^void msgq_init(msgq_t *q, char *name, int32_t offset, int32_t thd, void (*del)(void *msg))$/;"	f	signature:(msgq_t *q, char *name, int32_t offset, int32_t thd, void (*del)(void *msg))
+msgq_init	/home/nitonggui/worksapce/c/new_calc/que.h	/^extern void msgq_init(msgq_t *q, char *name, int32_t offset, int32_t thd, void (*del)(void *msg));$/;"	p	signature:(msgq_t *q, char *name, int32_t offset, int32_t thd, void (*del)(void *msg))
+msgq_is_empty	/home/nitonggui/worksapce/c/new_calc/que.h	/^static __inline__ int32_t msgq_is_empty(msgq_t *q)$/;"	f	signature:(msgq_t *q)
+msgq_next	/home/nitonggui/worksapce/c/new_calc/que.h	/^static __inline__ void *msgq_next(msgq_t *q, void *obj)$/;"	f	signature:(msgq_t *q, void *obj)
+msgq_s	/home/nitonggui/worksapce/c/new_calc/que.h	/^typedef struct msgq_s {$/;"	s
+msgq_s::del	/home/nitonggui/worksapce/c/new_calc/que.h	/^	void (*del)(void *obj);$/;"	m	struct:msgq_s	access:public
+msgq_s::head	/home/nitonggui/worksapce/c/new_calc/que.h	/^	struct list_head head;$/;"	m	struct:msgq_s	typeref:struct:msgq_s::list_head	access:public
+msgq_s::nr	/home/nitonggui/worksapce/c/new_calc/que.h	/^	int32_t nr;$/;"	m	struct:msgq_s	access:public
+msgq_s::offset	/home/nitonggui/worksapce/c/new_calc/que.h	/^	int32_t offset;$/;"	m	struct:msgq_s	access:public
+msgq_s::thd	/home/nitonggui/worksapce/c/new_calc/que.h	/^	int32_t thd;$/;"	m	struct:msgq_s	access:public
+msgq_t	/home/nitonggui/worksapce/c/new_calc/que.h	/^} msgq_t;$/;"	t	typeref:struct:msgq_s
+n	/home/nitonggui/worksapce/c/new_calc/calc.c	/^	double n;$/;"	m	struct:__anon1	file:	access:public
+next	/home/nitonggui/worksapce/c/new_calc/list.h	/^	struct hlist_node *next, **pprev;$/;"	m	struct:hlist_node	typeref:struct:hlist_node::hlist_node	access:public
+next	/home/nitonggui/worksapce/c/new_calc/list.h	/^	struct list_head *next, *prev;$/;"	m	struct:list_head	typeref:struct:list_head::list_head	access:public
+nr	/home/nitonggui/worksapce/c/new_calc/que.h	/^	int32_t nr;$/;"	m	struct:msgq_s	access:public
+ntohl	/home/nitonggui/worksapce/c/new_calc/types.h	47;"	d
+ntohs	/home/nitonggui/worksapce/c/new_calc/types.h	46;"	d
+offset	/home/nitonggui/worksapce/c/new_calc/que.h	/^	int32_t offset;$/;"	m	struct:msgq_s	access:public
+offset_of	/home/nitonggui/worksapce/c/new_calc/list.h	209;"	d
+pop	/home/nitonggui/worksapce/c/new_calc/stack.c	/^void *pop(stack_t *s)$/;"	f	signature:(stack_t *s)
+pop	/home/nitonggui/worksapce/c/new_calc/stack.h	/^void *pop(stack_t *s);$/;"	p	signature:(stack_t *s)
+pop_c	/home/nitonggui/worksapce/c/new_calc/calc.c	127;"	d	file:
+pop_d	/home/nitonggui/worksapce/c/new_calc/calc.c	69;"	d	file:
+pprev	/home/nitonggui/worksapce/c/new_calc/list.h	/^	struct hlist_node *next, **pprev;$/;"	m	struct:hlist_node	typeref:struct:hlist_node::	access:public
+prev	/home/nitonggui/worksapce/c/new_calc/list.h	/^	struct list_head *next, *prev;$/;"	m	struct:list_head	typeref:struct:list_head::	access:public
+push	/home/nitonggui/worksapce/c/new_calc/stack.c	/^void push(stack_t *s, void *obj)$/;"	f	signature:(stack_t *s, void *obj)
+push	/home/nitonggui/worksapce/c/new_calc/stack.h	/^void push(stack_t *s, void *obj);$/;"	p	signature:(stack_t *s, void *obj)
+push_c	/home/nitonggui/worksapce/c/new_calc/calc.c	126;"	d	file:
+push_d	/home/nitonggui/worksapce/c/new_calc/calc.c	68;"	d	file:
+push_token	/home/nitonggui/worksapce/c/new_calc/calc.c	/^static inline void push_token(char type, double n)$/;"	f	file:	signature:(char type, double n)
+put_tok	/home/nitonggui/worksapce/c/new_calc/calc.c	/^void put_tok(token *t)$/;"	f	signature:(token *t)
+putop	/home/nitonggui/worksapce/c/new_calc/getop.c	/^int putop(char s[], double)$/;"	f	signature:(char s[], double)
+sp	/home/nitonggui/worksapce/c/new_calc/stack.c	/^	int sp;		\/\/position$/;"	m	struct:stack_s	file:	access:public
+split_read_four	/home/nitonggui/worksapce/c/new_calc/types.h	133;"	d
+split_read_two	/home/nitonggui/worksapce/c/new_calc/types.h	104;"	d
+split_write_four	/home/nitonggui/worksapce/c/new_calc/types.h	/^static __inline__ void split_write_four(uint8_t *addr, uint32_t four, uint8_t endian)$/;"	f	signature:(uint8_t *addr, uint32_t four, uint8_t endian)
+split_write_two	/home/nitonggui/worksapce/c/new_calc/types.h	/^static __inline__ void split_write_two(uint8_t *addr, uint16_t two, uint8_t endian)$/;"	f	signature:(uint8_t *addr, uint16_t two, uint8_t endian)
+stack_s	/home/nitonggui/worksapce/c/new_calc/stack.c	/^struct stack_s {$/;"	s	file:
+stack_s::array	/home/nitonggui/worksapce/c/new_calc/stack.c	/^	void *array;$/;"	m	struct:stack_s	file:	access:public
+stack_s::cap	/home/nitonggui/worksapce/c/new_calc/stack.c	/^	int cap;	\/\/capacity$/;"	m	struct:stack_s	file:	access:public
+stack_s::esz	/home/nitonggui/worksapce/c/new_calc/stack.c	/^	int esz;	\/\/element size$/;"	m	struct:stack_s	file:	access:public
+stack_s::sp	/home/nitonggui/worksapce/c/new_calc/stack.c	/^	int sp;		\/\/position$/;"	m	struct:stack_s	file:	access:public
+stack_t	/home/nitonggui/worksapce/c/new_calc/stack.h	/^typedef struct stack_s stack_t;$/;"	t	typeref:struct:stack_s
+thd	/home/nitonggui/worksapce/c/new_calc/que.h	/^	int32_t thd;$/;"	m	struct:msgq_s	access:public
+token	/home/nitonggui/worksapce/c/new_calc/calc.c	/^} token;$/;"	t	typeref:struct:__anon1	file:
+token_que	/home/nitonggui/worksapce/c/new_calc/calc.c	/^msgq_t token_que;$/;"	v
+top	/home/nitonggui/worksapce/c/new_calc/stack.c	/^void *top(stack_t *s)$/;"	f	signature:(stack_t *s)
+top	/home/nitonggui/worksapce/c/new_calc/stack.h	/^void *top(stack_t *s);$/;"	p	signature:(stack_t *s)
+top_c	/home/nitonggui/worksapce/c/new_calc/calc.c	128;"	d	file:
+type	/home/nitonggui/worksapce/c/new_calc/calc.c	/^	char type;$/;"	m	struct:__anon1	file:	access:public
+uint16_t	/home/nitonggui/worksapce/c/new_calc/types.h	/^typedef unsigned short		uint16_t;$/;"	t
+uint32_t	/home/nitonggui/worksapce/c/new_calc/types.h	/^typedef unsigned int		uint32_t;$/;"	t
+uint8_t	/home/nitonggui/worksapce/c/new_calc/types.h	/^typedef unsigned char		uint8_t;$/;"	t
+ulong_t	/home/nitonggui/worksapce/c/new_calc/types.h	/^typedef unsigned long		ulong_t;$/;"	t
+ungetch	/home/nitonggui/worksapce/c/new_calc/getch.c	/^void ungetch(int c)$/;"	f	signature:(int c)
