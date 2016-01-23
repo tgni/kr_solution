@@ -48,7 +48,7 @@ main()
 	float i;
 
 	getfloat(&i);
-	printf("%l\n", i);
+	printf("%f\n", i);
 
 	return 0;
 }
