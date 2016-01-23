@@ -18,10 +18,16 @@ void reverse(char s[])
 	__reverse(s, 0, strlen(s) - 1);
 }
 
+void reverse_input()
+{
+	int c;
+
+	if ((c = getchar()) != '\n')
+		reverse_input();
+	putchar(c);
+}
+
 main()
 {
-	char s[] = "abcdefghijklmnopqrstuvwxyz";
-	printf("%s\n", s);
-	reverse(s);
-	printf("%s\n", s);
+	reverse_input();
 }
