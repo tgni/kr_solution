@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/* hello my new program */
 char *strncpy(char *dest, const char *src, size_t n)
 {
 	char *p; 
