@@ -8,7 +8,7 @@ extern void ungetch(int c);
 /* get next integer from input into *pn */
 int getfloat(float *pn)
 {
-	int c, sign, p;
+	int c, sign, p; /* p means power of deimal */
 	float decimal;
 
 	while (isspace(c = getch()))	
